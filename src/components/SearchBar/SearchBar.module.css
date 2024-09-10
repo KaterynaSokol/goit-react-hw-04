@@ -1,7 +1,7 @@
 .header {
   width: 100wh;
   padding: 15px;
-  margin: 0 auto;
+  margin: 0 auto 20px auto;
   background-color: rgba(39, 110, 168, 0.7);
 }
 .form {

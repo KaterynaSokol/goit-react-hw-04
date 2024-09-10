@@ -41,8 +41,8 @@ const SearchBar = ({ onSubmit }) => {
             🔍
           </button>
         </div>
+        <Toaster />
       </form>
-      <Toaster />
     </header>
   );
 };
